@@ -1,0 +1,5 @@
+username,name,followers,following,public_repos,profile_url,account_created,extracted_at,followers_category
+octocat,The Octocat,22535,9,8,https://github.com/octocat,2011-01-25T18:44:36Z,2026-05-04 15:52:13.801024,Popular
+torvalds,Linus Torvalds,300736,0,11,https://github.com/torvalds,2011-09-03T15:26:22Z,2026-05-04 15:52:13.886321,Popular
+mojombo,Tom Preston-Werner,24573,11,66,https://github.com/mojombo,2007-10-20T05:24:19Z,2026-05-04 15:52:13.982303,Popular
+abhisheksd27,Abhishek Shankar,122,227,102,https://github.com/abhisheksd27,2022-09-28T08:19:30Z,2026-05-04 15:52:14.068160,Not Popular
