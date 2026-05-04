@@ -1,0 +1,2 @@
+time,interval,temperature,windspeed,winddirection,is_day,weathercode,city,extracted_at,temp_f
+2026-05-04T06:15,900,8.5,15.8,229,0,0,Bengaluru,2026-05-04 11:57:36.358528,47.3
