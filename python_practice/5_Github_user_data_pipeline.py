@@ -63,3 +63,5 @@ print("\nCSV file saved successfully as github_users.csv\n")
 
 # Print final DataFrame
 print(df[["username", "followers", "followers_category"]])
+
+print("")
