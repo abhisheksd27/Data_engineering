@@ -1,0 +1,4 @@
+api_url,status_code,response_time,status
+https://api.github.com,200,0.1071,Healthy
+https://api.openweathermap.org,200,0.725722,Healthy
+https://jsonplaceholder.typicode.com,200,0.049216,Healthy
